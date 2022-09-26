@@ -1,0 +1,44 @@
+.btn1 {
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(94, 94, 94);
+    color: white;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.login-cover {
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0.3)), url("login-bg-17.jpg");
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-size: cover;
+    background-position: center;
+}
+
+.btn1:hover {
+    background: rgb(185, 185, 185);
+    border: 1px solid;
+    color: black;
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+}
+
+.d-flex {
+
+    font-weight: 600;
+    font-size: 28px;
+
+}
+
+.text {
+    font-size: 13px;
+}

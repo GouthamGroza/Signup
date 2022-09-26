@@ -1,0 +1,35 @@
+.body{
+    border:black solid 1px;
+    border-radius: 10px;
+    display: grid;
+    align-items: center;
+    align-content: center;
+    height: 100%;
+    width: 402px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+   
+.container{ 
+       display: flex;
+      justify-content: center;
+      font-size: initial;
+  }
+  
+.continue-button{
+    display: flex;
+    justify-content: center;
+  
+}  
+
+.form-check{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.btn.btn-primary{
+        font-size: 15px;
+}
+.password{
+    text-decoration: none;
+}

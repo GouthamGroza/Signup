@@ -1,0 +1,10 @@
+.navbar-brand{
+    padding-top: 10px;
+    font-size: 24px;
+   
+}
+
+.navbar.navbar-inverse {
+  margin-bottom: 0px;
+  border-radius: 0px;
+}

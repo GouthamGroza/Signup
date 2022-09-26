@@ -1,0 +1,29 @@
+.Register-cover{
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0.3)), url("login-bg-15.jpg");
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-size: cover;
+    background-position: center;
+}
+
+.container-register{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    width: 55%;
+    height: 40px;
+    font-size: large;
+}
+
+.text{
+    color: rgb(180, 180, 180);
+    font-size: 13px;
+}
+.form-control{
+    font-size: 13px;
+}
